@@ -1,2 +1,1 @@
-# sdaai-iti103
-SDAAI ITI103 Essentials of Machine Learning codes repo
+### IT103 Essentials of Machine Learning Repo 
